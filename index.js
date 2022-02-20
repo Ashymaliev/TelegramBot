@@ -31,12 +31,6 @@ const keyboard = [
           url: 'https://t.me/nrsltnmuz' //внешняя ссылка
         }
       ],
-    [
-        {
-          text: 'Хочу проходить курсы',
-          url: 'https://htmlacademy.ru/continue' //внешняя ссылка
-        }
-      ],
       [
         {
           text: 'Ничего', // текст на кнопке
